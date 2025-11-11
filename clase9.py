@@ -21,3 +21,13 @@ except  Exception as e:
     print("Ha ocurrido un error: ", e) 
 finally:
     print("ejecuta siempre")
+
+
+lista= [1,2]
+print(lista[3])
+
+diccionario={
+    'nombre' : "cesar"
+}
+
+print(diccionario['edad'])
